@@ -74,7 +74,6 @@ function tieneEmail(usuario) {
   }
 }
 
-
 function tienePropiedad(objeto, propiedad) {
   // Devuelve "true" si el objeto tiene el valor del argumento "propiedad"
   // "propiedad" es un string
