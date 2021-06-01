@@ -1,0 +1,82 @@
+h1{
+    font-family: fantasy;
+    color: blueviolet;
+    font-size: 40px;
+    border: solid black 3px;
+    display: inline;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    border-radius: 25px;
+    margin: auto;
+    display: block;
+}
+
+
+.divClass{
+    width: 700px;
+    margin: auto;    
+    background: white;
+    border: solid black;
+    padding: 30px;
+    border-radius: 20px;
+}
+ul{
+    margin: 5px;
+    padding: 0;
+}
+li{
+    display: block;
+}
+
+#thirdDiv {
+    height: 650px;
+    width: 500px;
+    background: beige;
+    padding: 50px;
+    border: black solid 3px;
+    display: flexbox;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url(Imagenes/Fondo_Hamburguesas.jpeg);
+}
+#divComida{
+    padding:20px ;
+}
+span{
+    font-size: 18px;
+}
+.burgerking{
+    font-size: 18px;
+}
+#foto_perfil{
+    height: 200px;
+    width: 200px;
+    image-rendering: optimizeQuality;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 20px;
+    border-radius: 25%;
+}
+#principal{
+    height: 200px;
+    position: relative;
+}
+h3{
+    font-size: 20px;
+}
+h6{
+    font-size: 15px;
+}
